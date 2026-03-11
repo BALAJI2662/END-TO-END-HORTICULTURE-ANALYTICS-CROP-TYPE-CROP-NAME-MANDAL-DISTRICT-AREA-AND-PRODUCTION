@@ -26,7 +26,7 @@ Finally, an **interactive dashboard in Power BI** presents key insights through 
 
 ## Key Insights
 
-* Analysis of horticulture **area and production trends from 2020–2023**
+* Analysis of horticulture **area and production trends from 2021–2023**
 * Identification of **top producing districts and crop types**
 * Comparison of **cultivated area vs production output**
 * Visualization of **geographical crop distribution**
