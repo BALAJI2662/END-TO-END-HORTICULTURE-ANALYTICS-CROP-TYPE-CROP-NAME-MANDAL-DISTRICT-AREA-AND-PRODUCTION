@@ -2,7 +2,7 @@
 End-to-end horticulture data analytics pipeline using Excel, MySQL, Python, and Power BI. The project cleans and structures agricultural data (2021–2023) to analyze crop area, production trends, district contributions, and crop performance using SQL queries and interactive visualizations
 # End-to-End Horticulture Analytics
 
-This project performs **end-to-end data analytics on horticulture production data (2020–2023)** to uncover insights about crop cultivation, production trends, and geographical distribution across districts and mandals.
+This project performs **end-to-end data analytics on horticulture production data (2021–2023)** to uncover insights about crop cultivation, production trends, and geographical distribution across districts and mandals.
 
 The workflow begins with **collecting raw agricultural datasets**, followed by **data cleaning and preprocessing in Excel** to remove inconsistencies, missing values, and irrelevant fields. The cleaned data is then **normalized and stored in a MySQL database**, enabling efficient querying and structured data management.
 
